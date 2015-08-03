@@ -1,2 +1,2 @@
 # qbackup
-Backup site files and database in a tar.gz file, sending it to a remote server
+Backup site files and database in a tar.gz file, sending it to a remote server with scp
