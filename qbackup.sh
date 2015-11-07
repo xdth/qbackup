@@ -30,8 +30,8 @@ QBKP_DIRS="QBKP_Databases a b c"
 QBKP_STORAGEDIR="QBackups"
 
 # For dumping the DBs
-QBKP_DBUSER="user"
-QBKP_DBPASS="password"
+QBKP_DBUSER="bkpuser"
+QBKP_DBPASS="bkpuserpasswd"
 
 # For connecting to the remote server 
 QBKP_REMOTEHOST="example.com"
