@@ -19,7 +19,7 @@
 # GRANT SELECT, LOCK TABLES, PROCESS ON *.* TO  'bkpuser'@'localhost' IDENTIFIED BY 'bkpuserpasswd';
 #
 # Author: dth at alterland dot net and the internet
-## GRANT SELECT, LOCK TABLES, PROCESS ON *.* TO  'bkp'@'localhost' IDENTIFIED BY 'mypasswordhere';
+##
 
 ########## Variables ##########
 
